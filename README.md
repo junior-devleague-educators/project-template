@@ -1,9 +1,9 @@
-##Name of Project<br>
+## Name of Project
 *Short summary of what the project will be covering*<br>
 Ex:<br>
 In this project, we will be working with some basic **JavaScript** and **HTML** concepts to understand how we can attach functionality to our **User Interface**.
 
-##Objective<br>
+## Objective
 *Short objective of the project*<br>
 Ex:<br>
 To create a simple working application using, **HTML Elements**, **JavaScript Logic** and **Events** to create a button on our web page and when the user clicks on that button, they will receive a visual indicator that they clicked the button.
