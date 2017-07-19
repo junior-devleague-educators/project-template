@@ -43,7 +43,9 @@ Ex:<br>
 >5. Write your event handler **function** in your `app.js` file to __listen__ for the **onclick** event and use the `alert()` method to notify the user they have clicked on the button.
 
 ## Stretch Goals
-*List of scalable goals for students who get ahead*
+*List of scalable goals for students who get ahead.*
+Ex:<br>
+>Bonus: Create an additional `<button>` or `<a>` tag that takes you to a different `html` file.
 
 ## Resources
 *List of resources where students can research on their own.*<br>
