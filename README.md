@@ -1,3 +1,6 @@
+# Project Template
+Suggested template to use as a guide when creating projects.
+
 ## Name of Project
 *Short summary of what the project will be covering*<br>
 Ex:<br>
