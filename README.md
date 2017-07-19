@@ -41,5 +41,6 @@ Ex:<br>
 
 ## Resources
 *List of resources where students can research on their own.*<br>
+Ex:<br>
 http://www.w3schools.com/jsref/event_onclick.asp
 
