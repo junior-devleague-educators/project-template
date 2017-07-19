@@ -13,6 +13,7 @@ Suggested format for description:<br>
 [*level of project*] *Language and/or framework* - *Brief list of objectives/concepts covered in the project* <br>
 Ex:<br>
 ![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-19%20at%2010.06.03%20AM.png)
+Project description on final projects should include a link to GitHub page.
 
 ### Tips and Suggestions
 - Include as many images and screenshots to help students with the completion of the project or to make the project fun.
@@ -26,6 +27,7 @@ Ex:<br>
 - If students finish projects early have them help other students who are still completing their projects. 
 - If projects are more advanced, you may want to include a screenshot of the finished project to help guide students in their development process.
 - Be clear in your instructions, if it's a bigger project, make sure students wire-frame or map out their ideas first and then stick to that plan to complete their MVP.
+- For projects that are more visual, have students create a GitHub page to showcase their work.
 
 ### Reference Repos
 - Feel free to create informative repos in GitHub for reference. 
