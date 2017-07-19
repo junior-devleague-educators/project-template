@@ -1,20 +1,20 @@
 ## Name of Project
 *Short summary of what the project will be covering*<br>
 Ex:<br>
-In this project, we will be working with some basic **JavaScript** and **HTML** concepts to understand how we can attach functionality to our **User Interface**.
+>In this project, we will be working with some basic **JavaScript** and **HTML** concepts to understand how we can attach >functionality to our **User Interface**.
 
 ## Objective
 *Short objective of the project*<br>
 Ex:<br>
-To create a simple working application using, **HTML Elements**, **JavaScript Logic** and **Events** to create a button on our web page and when the user clicks on that button, they will receive a visual indicator that they clicked the button.
+>To create a simple working application using, **HTML Elements**, **JavaScript Logic** and **Events** to create a button on >our web page and when the user clicks on that button, they will receive a visual indicator that they clicked the button.
 
 
 ## Prerequisites
 *(List of topics/concepts/projects/exercises to complete prior to doing this project.*<br>
 Ex:<br>
-In order to complete this project students must have the following:
-Basic understanding of HTML structures. 
-Basic understanding of JavaScript and DOM
+>In order to complete this project students must have the following:
+>Basic understanding of HTML structures. 
+>Basic understanding of JavaScript and DOM
 
 ## Requirements
 *List of requirements needed to complete the project.*<br>
