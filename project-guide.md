@@ -22,7 +22,7 @@ Project description on final projects should include a link to GitHub page.
 - Use your team/organization's Slack channel to communicate changes to the classroom or provide any additional resources. 
 - Encourage students to use Slack to ask questions and or send resources they've found.
 - Use the **Hawaii Educators in Technology** Slack for ideas or assistance in creating projects.
-- Feel free to draw inspiration from open source resources online. 
+- Feel free to draw inspiration from open source resources online and Jr.Devleague's github https://github.com/junior-devleague. 
 - Always add stretch goals for students who get ahead.
 - If students finish projects early have them help other students who are still completing their projects. 
 - If projects are more advanced, you may want to include a screenshot of the finished project to help guide students in their development process.
