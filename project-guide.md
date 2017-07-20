@@ -10,14 +10,16 @@ Leverage recent trends and patterns in technology
 ### Creating a New Project Repo in GitHub
 1. Create a new repo in your GitHub profile or on your Organization's profile.
 2. View your profile or organziation's profile and click on the repositories tab at the top. You will see a list of your repositories pop up. Click on the green button that says'New'.
+![Creating a New Repo](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2011.24.05%20AM.png)
 2. Name your new project repo. Name should be all lowercase and words should be separated by dashes, not spaces. Initialize your repo with a README.md (which can be modified later).
+![Initialize README.md](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.15.04%20PM.png)
 
 ### Project Description
 
 Suggested format for description:<br> 
 [*level of project*] *Language and/or framework* - *Brief list of objectives/concepts covered in the project* <br>
 Ex:<br>
-![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-19%20at%2010.06.03%20AM.png)
+![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.18.42%20PM.png)
 Project description on final projects should include a link to GitHub page.
 
 ### Tips and Suggestions
