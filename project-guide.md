@@ -39,7 +39,8 @@ Ex:<br>
 7. In your terminal create a new solutions branch off the master branch by using the following commands:
 - `git checkout -b` *name of your new solutions branch in quotes* ex:`git checkout -b "super-secret-branch"`<br>
 ![Git Checkout Img](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%201.05.24%20PM.png)<br>
-8. Double check to see if you are in the newly created branch.
+8. Double check to see if you are in the newly created branch.<br>
+![new branch](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%201.04.33%20PM.png)<br>
 9. Sublime should still be open and it will automatically switch you to that new branch, nothing on the screen in sublime will change.
 10. Start to code a working solution in Sublime. When you are done, push your changes up to that branch using the following command:<br>
 - `git push --set-upstram origin super-secret-branch`
