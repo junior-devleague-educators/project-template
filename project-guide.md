@@ -19,8 +19,8 @@ Leverage recent trends and patterns in technology
 Suggested format for description:<br> 
 [*level of project*] *Language and/or framework* - *Brief list of objectives/concepts covered in the project* <br>
 Ex:<br>
-![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.18.42%20PM.png)
-Project description on final projects should include a link to GitHub page.
+![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.18.42%20PM.png)<br>
+*note:* Project descriptions for more visual projects should include a link to GitHub page for showcase later on.
 
 ### Tips and Suggestions
 - Include as many images and screenshots to help students with the completion of the project or to make the project fun.
