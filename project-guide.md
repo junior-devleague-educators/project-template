@@ -23,7 +23,7 @@ Ex:<br>
 **Note:** *Project descriptions for more visual projects should include a link to GitHub page for showcase later on.*
 
 ### Clone From GitHub to Local Machine
-1. Click on the 'Clone or Download' button and a drop down will appear. Make sure you select HTTPS and copy the url.
+1. Click on the 'Clone or Download' button and a drop down will appear. Make sure you select HTTPS and copy the url.<br>
 ![Clone Img in GH](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.25.53%20PM.png)
 
 ### Tips and Suggestions
