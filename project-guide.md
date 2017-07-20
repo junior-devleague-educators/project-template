@@ -1,4 +1,4 @@
-### Suggested Key Points of a Project:
+## Suggested Key Points of a Project:
 Leverage recent trends and patterns in technology
 - Be witty and whimsical in nature
 - Be agnostic of opinion or stereotype
@@ -7,14 +7,14 @@ Leverage recent trends and patterns in technology
 - Be visually appealing to the user
 - Provide supporting resources and next steps
 
-### Creating a New Project Repo in GitHub
+## Creating a New Project Repo in GitHub
 1. Create a new repo in your GitHub profile or on your Organization's profile.
 2. View your profile or organziation's profile and click on the repositories tab at the top. You will see a list of your repositories pop up. Click on the green button that says 'New'.
 ![Creating a New Repo](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2011.24.05%20AM.png)
 2. Name your new project repo. Name should be all lowercase and words should be separated by dashes, not spaces. Initialize your repo with a README.md (which can be modified later).
 ![Initialize README.md](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.15.04%20PM.png)
 
-### Project Description
+## Project Description
 
 Suggested format for description:<br> 
 [*level of project*] *Language and/or framework* - *Brief list of objectives/concepts covered in the project* <br>
@@ -22,7 +22,7 @@ Ex:<br>
 ![Project Description](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.18.42%20PM.png)<br>
 **Note:** *Project descriptions for more visual projects should include a link to GitHub page for showcase later on.*
 
-### Clone From GitHub to Local Machine
+## Clone From GitHub to Local Machine
 1. Click on the 'Clone or Download' button and a drop down will appear. Make sure you select HTTPS and copy the url.<br>
 ![Clone Img in GH](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.25.53%20PM.png)<br>
 2. In your terminal navigate to the directory you want to put your project in and follow these commands:
@@ -44,7 +44,7 @@ Ex:<br>
 10. Start to code a working solution in Sublime. When you are done, push your changes up to that branch using the following command:<br>
 - `git push --set-upstram origin super-secret-branch`
 
-### Tips and Suggestions
+## Tips and Suggestions
 - Include as many images and screenshots to help students with the completion of the project or to make the project fun.
 - Try to incorporate school spirit or modern trends into projects to keep students engaged.
 - Include links to images or assign tutorials prior to assigning the project to solify concepts covered in the project.
@@ -58,7 +58,7 @@ Ex:<br>
 - Be clear in your instructions, if it's a bigger project, make sure students wire-frame or map out their ideas first and then stick to that plan to complete their MVP.
 - For projects that are more visual, have students create a GitHub page to showcase their work.
 
-### Reference Repos
+## Reference Repos
 - Feel free to create informative repos in GitHub for reference. 
 - Include link to reference repos within the project.
 - Reference repos should be informative, descriptive, and should include as many visuals possible to help students practices development processes and workflows.
