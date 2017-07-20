@@ -24,7 +24,25 @@ Ex:<br>
 
 ### Clone From GitHub to Local Machine
 1. Click on the 'Clone or Download' button and a drop down will appear. Make sure you select HTTPS and copy the url.<br>
-![Clone Img in GH](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.25.53%20PM.png)
+![Clone Img in GH](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%2012.25.53%20PM.png)<br>
+2. In your terminal navigate to the directory you want to put your project in and follow these commands:
+- `git clone` *paste the url you just copied here* ex: `git clone https://github.com/nat-nat33/my-new-project.git`<br>
+![Git Clone](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%201.04.19%20PM.png)<br>
+-`ls` to list the contents of the current directory and check to see if you cloned correctly. The new project should show up.
+- `cd` *name of the project directory you just cloned* ex: `cd my-new-project`<br>
+![change directory](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%201.04.33%20PM.png)<br>
+- You should now be in the master branch of your new project.
+3. Open your new project in sublime.
+4. In your terminal add any directories/files necessary for the **students** to start the project to the **master** branch. **Note:** Remember you have to add files to the directories in order for you to push them up to GitHub. You can create temp files in order to bypass this.
+5. Push your files up to your master branch. Files should just be initial files needed to start the project.
+6. Check your GitHub to see if your files are synced up online.
+7. In your terminal create a new solutions branch off the master branch by using the following commands:
+- `git checkout -b` *name of your new solutions branch in quotes* ex:`git checkout -b "super-secret-branch"`<br>
+![Git Checkout Img](https://github.com/junior-devleague-educators/project-template/blob/master/assets/Screen%20Shot%202017-07-20%20at%201.05.24%20PM.png)<br>
+8. Double check to see if you are in the newly created branch.
+9. Sublime should still be open and it will automatically switch you to that new branch, nothing on the screen in sublime will change.
+10. Start to code a working solution in Sublime. When you are done, push your changes up to that branch using the following command:<br>
+- `git push --set-upstram origin super-secret-branch`
 
 ### Tips and Suggestions
 - Include as many images and screenshots to help students with the completion of the project or to make the project fun.
